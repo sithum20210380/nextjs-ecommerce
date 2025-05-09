@@ -2,7 +2,7 @@
 
 A responsive e-commerce application built with Next.js that includes product listings, shopping cart functionality, animations, and Stripe payment integration.
 
-![Next.js E-commerce Screenshot](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-dArvjx987iDpJ8oy4mg1k05yAro8Bm.png)
+![Next.js E-commerce](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-uSsa92MXG9IOgDbMCvasCEQM477FCH.png)
 
 ## Features
 
