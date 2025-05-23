@@ -173,10 +173,6 @@ With more time, these features could be added:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - [Next.js](https://nextjs.org/)
@@ -185,9 +181,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Shadcn UI](https://ui.shadcn.com/)
 - [Stripe](https://stripe.com/)
 - [FakeStore API](https://fakestoreapi.com/)
-
-
-```plaintext
-
-
-```
